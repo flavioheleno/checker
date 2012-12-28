@@ -1,0 +1,35 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+img {
+	border: 0;
+	vertical-align: middle;
+}
+
+a {
+	color: #AAA;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000;
+}
+
+th {
+	background-color: #CCC;
+	border-bottom: 1px solid #000;
+}
+
+td {
+	border-bottom: 1px dotted #000;
+	text-align: center;
+}
+
+td:hover {
+	background-color: #AAA;
+}
